@@ -10,4 +10,5 @@ public class WebsiteMetaDataResponse {
     private String description;
     private String imageLink;
     private String type;
+    private Long viewCount;
 }
